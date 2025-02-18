@@ -1,0 +1,160 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  background: #ff9edd;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 1247px;
+  height: 727px;
+  position: absolute;
+  left: 84px;
+  top: 195px;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-this-class-is-the-last-class-in-the-is-program-meant-to-combine-students-knowledge {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.professor-paul-t-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara-semester-details-spring-2025 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.professor-paul-t-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara-semester-details-spring-2025-span {
+  color: #ffffff;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+}
+.professor-paul-t-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara-semester-details-spring-2025-span2 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.professor-paul-t-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara-semester-details-spring-2025-span3 {
+  color: #ffffff;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+}
+.professor-paul-t-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara-semester-details-spring-2025-span4 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.professor-paul-t-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara-semester-details-spring-2025-span5 {
+  color: #ffffff;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+}
+.professor-paul-t-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara-semester-details-spring-2025-span6 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.bmgt-407-information-systems-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 60px;
+  font-weight: 600;
+  position: absolute;
+  left: 84px;
+  top: 195px;
+  width: 1066px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  -webkit-text-stroke: 1px #ff00d9;
+}
+.bmgt-407 {
+  color: #fffbfb;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 64px;
+  font-weight: 800;
+  position: absolute;
+  left: 80px;
+  top: 62px;
+  width: 337px;
+  height: 64px;
+  -webkit-text-stroke: 1px #ff00c8;
+}
+.frame-2 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 471px;
+  position: absolute;
+  left: 889px;
+  top: 68px;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 44px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: relative;
+  width: 159px;
+  height: 29px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: relative;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: relative;
+}
